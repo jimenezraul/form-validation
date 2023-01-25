@@ -1,0 +1,20 @@
+{
+  "name": "@jimenezraul/form-validation",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "typesVersions": {
+    "<=4.0": {
+      "*": [
+        "ts4.0/*"
+      ]
+    }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
